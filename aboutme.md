@@ -9,6 +9,6 @@ Our founder, Gabon Williams, is from Charlotte NC and went to Johnson C Smith Un
 This company serves to coach others and lead them down a path that not only enhances their long term wealth generation but also provides them with skills to protect themselves in the digital world. We have developed a cybersecurity coaching program for those looking to pivot into the field or for those looking to learn more about the space. In addition, our company is building out a cryptocurrency trading program to help others learn how to accrue wealth with limited resources over time.
 What else do you need?
 
-### Our story
+### Where are we now?
 
 We have consulted with multiple fintech companies on the source code auditing side and plan to continue assisting in making the future of finance more secure.
