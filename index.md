@@ -1,6 +1,6 @@
 ---
 layout: Home
 title: The Life Success
-subtitle: Teaching, Helping, and Educating Leadership In Faith-Evolving Success.
+subtitle: Teaching, Helping, and Educating Leadership In Faith-Evolving Success
 ---
 Our company’s mission is to empower and encourage others to pursue dreams and find purpose.
