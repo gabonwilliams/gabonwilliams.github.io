@@ -14,9 +14,9 @@ author: Gabon W.
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-  Author's home: "https://thelifesuccessllc.org"
+  About: "about"
+  Resources: "resources"
+  Home: "https://thelifesuccessllc.org"
 
 # --- Logo --- #
 
@@ -39,12 +39,12 @@ round-avatar: true
 social-network-links:
   email: "gabon@thelifesuccessllc.org"
 #  facebook: 
-  github: gabonwilliams
-#  twitter: 
+  github: https://github.com/gabonwilliams
+  twitter: https://twitter.com/gabonwilliams 
 #  patreon: 
 #  youtube: c/
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: https://linkedin.com/in/gabonwilliams20
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
